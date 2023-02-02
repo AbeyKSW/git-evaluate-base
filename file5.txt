@@ -1,1 +1,2 @@
-This file has been changed
+This file has been changed.
+This is after stashing
